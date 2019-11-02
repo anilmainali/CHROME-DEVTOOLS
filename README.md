@@ -12,6 +12,10 @@ https://developers.google.com/web/tools/chrome-devtools
 
 https://developers.google.com/web/tools/chrome-devtools/rendering-tools
 
+##  Performance Analysis Reference
+
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference
+
 https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 
 https://developers.google.com/web/tools/chrome-devtools/evaluate-performance
