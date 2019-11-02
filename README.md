@@ -20,6 +20,10 @@ https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/ref
 
 https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/performance-reference
 
+## Speed Up JavaScript Execution
+
+https://developers.google.com/web/tools/chrome-devtools/rendering-tools/js-execution
+
 ## 
 
 https://developers.google.com/web/tools/chrome-devtools/speed/get-started
