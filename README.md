@@ -8,6 +8,10 @@ https://developers.google.com/web/tools/chrome-devtools
 
 ## Optimize Website Speed With Chrome DevTools
 
+## Analyze Runtime Performance
+
+https://developers.google.com/web/tools/chrome-devtools/rendering-tools
+
 https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 
 https://developers.google.com/web/tools/chrome-devtools/evaluate-performance
