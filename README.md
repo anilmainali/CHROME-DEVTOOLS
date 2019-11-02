@@ -16,6 +16,12 @@ https://developers.google.com/web/tools/chrome-devtools/rendering-tools
 
 https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference
 
+## Timeline Event Reference
+
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/performance-reference
+
+## 
+
 https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 
 https://developers.google.com/web/tools/chrome-devtools/evaluate-performance
