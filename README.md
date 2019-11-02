@@ -2,6 +2,8 @@
 
 ## Resources:
 
+https://developers.google.com/web/tools/chrome-devtools
+
 https://developers.google.com/web/tools/chrome-devtools/network/reference#timing-explanation
 
 ## Inspect Network Activity In Chrome DevTools
