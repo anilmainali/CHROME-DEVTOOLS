@@ -6,7 +6,11 @@ https://developers.google.com/web/tools/chrome-devtools
 
 ## Get Started With Analyzing Runtime Performance
 
+https://developers.google.com/web/tools/chrome-devtools/speed/get-started
+
 ## Optimize Website Speed With Chrome DevTools
+
+https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 
 ## Analyze Runtime Performance
 
@@ -24,13 +28,6 @@ https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/per
 
 https://developers.google.com/web/tools/chrome-devtools/rendering-tools/js-execution
 
-## 
-
-https://developers.google.com/web/tools/chrome-devtools/speed/get-started
-
-https://developers.google.com/web/tools/chrome-devtools/evaluate-performance
-
-https://developers.google.com/web/tools/chrome-devtools/network/reference#timing-explanation
 
 ## Inspect Network Activity In Chrome DevTools
 
