@@ -4,6 +4,10 @@
 
 https://developers.google.com/web/tools/chrome-devtools
 
+## Get Started With Analyzing Runtime Performance
+
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance
+
 https://developers.google.com/web/tools/chrome-devtools/network/reference#timing-explanation
 
 ## Inspect Network Activity In Chrome DevTools
