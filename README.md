@@ -35,6 +35,10 @@ https://developers.google.com/web/tools/chrome-devtools/rendering-tools/js-execu
 
 https://developers.google.com/web/tools/chrome-devtools/network/
 
+## Network Analysis Reference
+
+https://developers.google.com/web/tools/chrome-devtools/network/reference#timing-explanation
+
 ## How to Record Heap Snapshots
 
 https://developers.google.com/web/tools/chrome-devtools/memory-problems/heap-snapshots
